@@ -56,7 +56,7 @@ public class Ex1 {
         System.out.println("Resultado: " + resultadoSoma);
         System.out.println("Correto? " + (resultadoSoma == 7));
 
-        System.out.println("\nTeste 2 - ehPar(6):");
+        System.out.println("\nTeste 2 - ePar(6):");
         boolean resultadoPar = ePar(6);
         System.out.println("Resultado: " + resultadoPar);
         System.out.println("Correto? " + (resultadoPar));
